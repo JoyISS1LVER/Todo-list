@@ -7,3 +7,4 @@ https://joys-todo-list.pages.dev/
 1. Javascript
 2. HTML
 3. CSS
+4. JSON was used to store and retrive data .
